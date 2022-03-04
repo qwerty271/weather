@@ -146,8 +146,8 @@ function Weather(props: {
         </div>
       </div>
       <Buttons
-        link1="/"
-        link2="/time"
+        link1="/weather/"
+        link2="/weather/time"
         button1="Главная"
         button2="Время"
         color1="3"

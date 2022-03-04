@@ -20,8 +20,8 @@ function Time() {
     <div className="time">
       <h1 className="time__counter">{time.toLocaleTimeString()}</h1>
       <Buttons
-        link1="/"
-        link2="/weather"
+        link1="/weather/"
+        link2="/weather/weather-forecast"
         button1="Главная"
         button2="Погода"
         color1="3"

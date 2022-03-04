@@ -13,7 +13,7 @@ function Greeting() {
       </div>
       <Buttons
         link1="./time"
-        link2="./weather"
+        link2="./weather-forecast"
         button1="Время"
         button2="Погода"
         color1="2"
