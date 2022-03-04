@@ -138,58 +138,58 @@ span {
 }
 
 .weather__title span:nth-child(1) {
-  animation: animate 0.6s linear;
+  animation: weather-animate 0.6s linear;
 }
 
 .weather__title span:nth-child(2) {
-  animation: animate 0.9s linear;
+  animation: weather-animate 0.9s linear;
 }
 
 .weather__title span:nth-child(3) {
-  animation: animate 1.2s linear;
+  animation: weather-animate 1.2s linear;
 }
 
 .weather__title span:nth-child(4) {
-  animation: animate 1.5s linear;
+  animation: weather-animate 1.5s linear;
 }
 
 .weather__title span:nth-child(5) {
-  animation: animate 1.8s linear;
+  animation: weather-animate 1.8s linear;
 }
 
 .weather__title span:nth-child(6) {
-  animation: animate 2.1s linear;
+  animation: weather-animate 2.1s linear;
 }
 
 .weather__title span:nth-child(7) {
-  animation: animate 2.4s linear;
+  animation: weather-animate 2.4s linear;
 }
 
 .weather__title span:nth-child(8) {
-  animation: animate 3s linear;
+  animation: weather-animate 3s linear;
 }
 
 .weather__title span:nth-child(9) {
-  animation: animate 3.3s linear;
+  animation: weather-animate 3.3s linear;
 }
 
 .weather__title span:nth-child(10) {
-  animation: animate 3.6s linear;
+  animation: weather-animate 3.6s linear;
 }
 
 .weather__title span:nth-child(11) {
-  animation: animate 3.9s linear;
+  animation: weather-animate 3.9s linear;
 }
 
 .weather__title span:nth-child(12) {
-  animation: animate 4.2s linear;
+  animation: weather-animate 4.2s linear;
 }
 
 .weather__title span:nth-child(13) {
-  animation: animate 4.5s linear;
+  animation: weather-animate 4.5s linear;
 }
 
-@keyframes animate {
+@keyframes weather-animate {
   0% {
     top: -1000px;
   }

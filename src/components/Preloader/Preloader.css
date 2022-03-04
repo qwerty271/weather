@@ -15,7 +15,7 @@
   background: #03e9f4;
   height: 0;
   width: 20px;
-  animation: animate 1.5s linear infinite;
+  animation: preloader-animate 1.5s linear infinite;
 }
 
 .preloader div:nth-child(1) {
@@ -38,7 +38,7 @@
   animation-delay: 0.5s;
 }
 
-@keyframes animate {
+@keyframes preloader-animate {
   0% {
     height: 0;
   }
